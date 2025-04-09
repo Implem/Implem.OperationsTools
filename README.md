@@ -3,6 +3,8 @@
 プリザンターの[年間サポートサービス](https://pleasanter.org/support)のご契約者様がご利用いただける [Operations Tools](https://pleasanter.org/ja/manual/operations-tools-overview) です。  
 利用方法は [Pleasanter ユーザーマニュアル：運用支援ツール](https://pleasanter.org/ja/manual?category=8220)をご参照ください。  
 
+![OperationsTools-Operation-01](https://github.com/user-attachments/assets/8c322561-0f95-4b6c-ae35-1944a29205bf)
+
 ## ダウンロード
 
 [Releasesページ](https://github.com/Implem/Implem.OperationsTools/releases)から最新版をダウンロードしてください。  
